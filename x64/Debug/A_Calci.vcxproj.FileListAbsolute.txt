@@ -1,0 +1,4 @@
+D:\Code\GUI\A_Calci\x64\Debug\A_Calci.vcxproj.AssemblyReference.cache
+D:\Code\GUI\A_Calci\x64\Debug\A_Calci.MyForm.resources
+D:\Code\GUI\A_Calci\x64\Debug\A_Calci.vcxproj.GenerateResource.cache
+D:\Code\GUI\A_Calci\x64\Debug\A_Calci.exe
